@@ -30,7 +30,7 @@ While our website is primarily designed for users to browse online, developers c
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ringcentral/ring-website.git
+   git clone https://github.com/
    ```
 2. Navigate to the project directory:
    ```
@@ -43,7 +43,7 @@ While our website is primarily designed for users to browse online, developers c
 
 ## Usage
 
-For users: Simply visit [ringcentral.com](https://ringcentral.com) and start exploring!
+For users: Simply visit [](https://example.com) and start exploring!
 
 For developers: After installation, run the development server:
 ```
@@ -56,7 +56,7 @@ We welcome contributions to improve the website! Please see our [CONTRIBUTING.md
 
 ## Feedback
 
-Loved our collection? Found a bug? Have a suggestion? Feel free to [open an issue](https://github.com/ringcentral/ring-website/issues) or contact us directly at [feedback@ringcentral.com](mailto:feedback@ringcentral.com).
+Loved our collection? Found a bug? Have a suggestion? Feel free to [open an issue]() or contact us directly at []().
 
 ## License
 
@@ -64,4 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-**Note**: Ensure to modify the placeholders (`ringcentral.com`, repository URL, email addresses, etc.) with appropriate information related to your actual website. Adjust the features and sections to fit the specific details of your website. The provided README is a generic template to give you a starting point.
+**Note**: Ensure to modify the placeholders (`example.com`, repository URL, email addresses, etc.) with appropriate information related to your actual website. Adjust the features and sections to fit the specific details of your website. The provided README is a generic template to give you a starting point.
