@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <Banner />
-      <TextSlot />
+      <TextSlot label="Nome"/>
+      <TextSlot label="Cargo"/>
+      <TextSlot label="Imagem"/>
     </div>
   );
 }
