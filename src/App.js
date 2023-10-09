@@ -1,13 +1,12 @@
-import TextSlot from './components/TextSlot';
 import Banner from './components/Banner';
+import Formulario from './components/Formulario';
 
 function App() {
   return (
     <div className="App">
       <Banner />
-      <TextSlot label="Nome"/>
-      <TextSlot label="Cargo"/>
-      <TextSlot label="Imagem"/>
+      <Formulario/>
+    
     </div>
   );
 }

@@ -1,11 +1,13 @@
 import  "./TextSlot.css"
 
 
-const TextSlot = () => {
+const TextSlot = (props) => {
     return (
        <div className="text-slot">
-            <label>Nome</label>
-            <input placeholder="Digite o seu Nome"/>
+            <label>
+                {props.label}
+            </label>
+            <input placeholder={props.placeholder}/>
        </div>
 
     )
